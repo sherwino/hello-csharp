@@ -37,7 +37,7 @@ namespace helloWorld
                 }
                 else
                 {
-                    WriteLine("You need to sleep a bit more.");
+                    WriteLine("Only {0}, you need to sleep a bit more.", hoursOfSleep);
                 }
             }
 
